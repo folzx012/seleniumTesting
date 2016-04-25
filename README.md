@@ -1,2 +1,2 @@
 # seleniumTesting
-#Selenium testing project files
+experimenting with selenium
